@@ -1,4 +1,4 @@
-"""Génère melodie.wav : les 6 cordes d'une guitare (E2 A2 D3 G3 B3 E4),
+"""Génère melodie.wav contenant une mélodie de 5 notes (corde pincée + bruit) pour tester tuner.py.
 """
 import wave
 import numpy as np
